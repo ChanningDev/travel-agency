@@ -1,0 +1,316 @@
+
+
+
+.container-fluid {
+    overflow: hidden;
+    margin-top: 250px;
+    background: #262626;
+    color: #627482 !important;
+    margin-bottom: 0;
+    padding-bottom: 0
+}
+
+small {
+    font-size: calc(12px + (15 - 12) * ((100vw - 360px) / (1600 - 360))) !important
+}
+
+.bold-text {
+    color: #989c9e !important
+}
+
+.mt-55 {
+    margin-top: calc(50px + (60 - 50) * ((100vw - 360px) / (1600 - 360))) !important
+}
+
+h3 {
+    font-size: calc(34px + (40 - 34) * ((100vw - 360px) / (1600 - 360))) !important
+}
+
+.social {
+    font-size: 21px !important
+}
+
+.rights {
+    font-size: calc(10px + (12 - 10) * ((100vw - 360px) / (1600 - 360))) !important
+}
+
+
+/*not working, why?*/
+.nounderline {
+    text-decoration: none !important
+}
+
+
+
+
+/*.carousel*/
+
+/*{*/
+/*    width:640px;*/
+/*    height:360px;*/
+/*}*/
+
+
+/*.w-100 {*/
+/*    width: 100% !important;*/
+/*    height: 85vh;*/
+/*}*/
+
+
+/*.carousel-inner {*/
+/*    position: relative;*/
+/*    width: 100%;*/
+/*    overflow: visible;*/
+/*}*/
+
+
+/*Maps*/
+
+.map-container{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.map-container iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+
+
+/*Navbar*/
+
+/* Dropdown menu background color*/
+
+/*.navbar-nav > li > .dropdown-menu {     background-color: #e7e7e7;  }*/
+.navbar-nav > li > .dropdown-menu {     background-color: #e7e7e7;  }
+
+/* Dropdown menu font color*/
+
+.navbar-nav > li > .dropdown-menu a{   color: #555555;  }
+/*.navbar-nav > li > .dropdown-menu a{   color: rgb(255, 86, 90);  }*/
+
+
+.navbar-custom1 {
+    background-color: rgb(255, 86, 90);
+}
+/* Modify brand and text color */
+.navbar-custom1 .navbar-brand,
+.navbar-custom1 .navbar-text .nav-link{
+    color: white;
+}
+
+/* Modify the background color */
+.navbar-custom2 {
+    background-color: white;
+}
+/* Modify brand and text color */
+.navbar-custom2 .navbar-brand,
+.navbar-custom2 .navbar-text .nav-link{
+    color: black;
+}
+/*#toggleButton{*/
+/*    color: white;*/
+/*    z-index: 3;*/
+/*}*/
+/*.navbar-toggler{*/
+/*    color: white;*/
+/*    z-index: 3;*/
+/*}*/
+/*.navbar-toggler-icon{*/
+/*    color: white;*/
+/*    z-index: 3;*/
+/*}*/
+/*.navbar-collapse{*/
+/*    color: white;*/
+/*    z-index: 3;*/
+/*}*/
+
+/* Dropdown menu color*/
+.navbar-nav > li > .dropdown-menu { background-color: white; }
+
+
+
+/* Footer */
+.footer-custom {
+    background-color: rgb(255, 86, 90);
+}
+.footer-custom .footer-text{
+    color: white;
+}
+.footer-titoli{
+    color: black;
+}
+
+/*Card Home*/
+
+.card-custom{
+    background-color: rgb(107, 184, 227);
+}
+
+
+
+
+
+
+
+/*Contact form*/
+
+#ContactFormButton {
+    background-color: rgb(107, 184, 227);
+    border: none;
+}
+
+
+/*Centrare input form*/
+.col-centered{
+    margin: 0 auto;
+    float: none;
+}
+
+
+/*Allineare label a sinistra*/
+.control-label{
+    text-align: left !important;
+}
+
+
+/* Form iscrizione*/
+
+#buttonPreventivo-custom{
+    background-color: rgb(107, 184, 227);
+}
+
+/*bottone azzurro*/
+.btn-primary {
+    background-color: rgb(107, 184, 227) !important;
+}
+
+
+/* REVIEWS CAROUSEL */
+.testimonial-box img {
+    display: inline-block;
+    width: 90px;
+    height:90px;
+    border-radius: 50%;
+    margin: 0 0 15px;
+}
+.testimonial-box h4 {
+    color: rgb(255, 86, 90);
+}
+.testimonial-box p {
+    margin-bottom: 20px;
+    font-size: 17px;
+    font-style: italic;
+    font-weight: 400;
+}
+.ratings-icons {
+    color: #fec42d;
+    margin-bottom: 15px;
+}
+
+
+/*checkbox*/
+
+/* Space out content a bit */
+body {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+/* Everything but the jumbotron gets side spacing for mobile first views */
+.header,
+.marketing,
+.footer {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+/* Custom page header */
+.header {
+    border-bottom: 1px solid #e5e5e5;
+}
+/* Make the masthead heading the same height as the navigation */
+.header h3 {
+    padding-bottom: 19px;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 40px;
+}
+
+/* Custom page footer */
+.footer {
+    padding-top: 19px;
+    color: #777;
+    border-top: 1px solid #e5e5e5;
+}
+
+/* Customize container */
+@media (min-width: 768px) {
+    .container {
+        max-width: 730px;
+    }
+}
+.container-narrow > hr {
+    margin: 30px 0;
+}
+
+/* Main marketing message and sign up button */
+.jumbotron {
+    text-align: center;
+    border-bottom: 1px solid #e5e5e5;
+}
+.jumbotron .btn {
+    padding: 14px 24px;
+    font-size: 21px;
+}
+
+/* Supporting marketing content */
+.marketing {
+    margin: 40px 0;
+}
+.marketing p + h4 {
+    margin-top: 28px;
+}
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+    /* Remove the padding we set earlier */
+    .header,
+    .marketing,
+    .footer {
+        padding-right: 0;
+        padding-left: 0;
+    }
+    /* Space out the masthead */
+    .header {
+        margin-bottom: 30px;
+    }
+    /* Remove the bottom border on the jumbotron for visual effect */
+    .jumbotron {
+        border-bottom: 0;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
