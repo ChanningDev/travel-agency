@@ -18,25 +18,25 @@ This will allow customers to navigate the website and choose the most appropriat
 ## Project Objectives
 In order to complete this project, I had to know how to:
 
--Build a website using HTML, CSS, Bootstrap and PHP (MVC) and MySQL/PhpMyAdmin
--Use Git version control
--Use the command line and file navigation
--Develop locally on my computer using XAMPP
--Deploy the website using a hosting service
+- Build a website using HTML, CSS, Bootstrap and PHP (MVC) and MySQL/PhpMyAdmin
+- Use Git version control
+- Use the command line and file navigation
+- Develop locally on my computer using XAMPP
+- Deploy the website using a hosting service
 
 ## Built With
--HTML
--CSS
--Bootstrap
--PHP (MVC)
--MySQL
+- HTML
+- CSS
+- Bootstrap
+- PHP (MVC)
+- MySQL
 
 ## Prerequisites
--HTML/CSS/Bootstrap
--PHP(MVC)/MySQL
--Git and GitHub
--Command line and file navigation
--XAMPP
+- HTML/CSS/Bootstrap
+- PHP(MVC)/MySQL
+- Git and GitHub
+- Command line and file navigation
+- XAMPP
 
 ## Author
 👤 Channing Morillo
