@@ -39,7 +39,7 @@ include 'controllers/navmenu.controller.php';
 
 <nav class="navbar navbar-custom2 navbar-expand-sm">
 <!--    <h3 class="text-muted mb-md-0 mb-5 bold-text"><a class="text-decoration-none text-secondary" href="index.php">WorldStudies.</a></h3>-->
-    <a class="navbar-brand" href="index.php"><img src="media/logos/logo1.png" width="300px" height="50px"></a>
+    <a class="navbar-brand" href="index.php">Travel Agency</a>
     <!-- proprieta per rendere la navbar collassabile nel bottone-->
     <div class="collapse navbar-collapse" id="nav2">
         <!-- Links -->
