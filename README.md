@@ -7,6 +7,9 @@ This project is a php website built for organize and display various travel dest
 
 > I am Channing, a full-stack software engineer. This project was for a client, but then the project switched to a ready-to-use CMS due to cost restrictions.
 
+## Demo
+![](https://github.com/ChanningDev/travel-agency/blob/main/Demo/ezgif.com-video-to-gif-converter.gif)
+
 ## The Aim
 To create a website that fulfills the client's expectations.
 
