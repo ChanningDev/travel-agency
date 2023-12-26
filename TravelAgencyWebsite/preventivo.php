@@ -7,7 +7,7 @@ include 'config/navmenu.inc.php';
 
 
 if (isset($_POST['submit'])) {
-    $to = "info@worldstudies.ch";
+    $to = "test@test.ch";
     $from = $_POST['email'];
     $nome = $_POST['nome'];
     $cognome = $_POST['cognome'];

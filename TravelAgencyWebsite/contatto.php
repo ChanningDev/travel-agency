@@ -79,13 +79,13 @@ if (isset($_POST['submit'])) {
     </br>
 
             <article>
-                <p>World Studies</p>
+                <p>Travel Agency</p>
                 <p>Soggiorni linguistici</p>
-                <p>Via Convento 4a</p>
+                <p>Via Dei Soggiorni</p>
                 <p>6500 Bellinzona</p>
-                <p>Tel: <a href="tel:0041918259974">0041 (0) 91 825 99 74 </a></p>
-                <p>Whastapp: <a href="tel:0041798460511">0041 (0) 79 846 05 11 </a></p>
-                <p>Mail: <a href="mailto:info@worldstudies.ch">info@worldstudies.ch</a></p>
+                <p>Tel: <a href="tel:">0041 (0) 93 825 99 74 </a></p>
+                <p>Whastapp: <a href="tel:>0041 (0) 71 846 05 11 </a></p>
+                <p>Mail: <a href="mailto:test@test.ch">info@travel-agency.ch</a></p>
             </article>
 
         </br>
