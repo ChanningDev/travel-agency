@@ -3,12 +3,8 @@ include 'config/config.inc.php';
 include 'controllers/navmenu.controller.php';
 ?>
 
-
-<!--<nav class="navbar navbar-expand-sm bg-dark navbar-dark">-->
 <nav class="navbar navbar-custom1   navbar-expand-sm" >
-<!--    <a class="navbar-brand" href="index.php"><h4>WorldStudies Bellinzona</h4></a>-->
-<!--    <h3 class="text-muted mb-md-0 mb-5 bold-text"><a class="text-decoration-none text-secondary" href="index.php">WorldStudies.</a></h3>-->
-<!--    <img src="media/logos/logo1.png" width="250"  alt="">-->
+<a class="navbar-brand" href="index.php"><h4>Travel Agency</h4></a>
 
     <!-- bottone per il menu responsive -->
     <button class="navbar-toggler navbar-dark" type="button" data-toggle="collapse" data-target="#nav1,#nav2" id="toggleButton">
@@ -18,7 +14,7 @@ include 'controllers/navmenu.controller.php';
     <!-- proprieta per rendere la navbar collassabile nel bottone-->
     <div class="collapse navbar-collapse" id="nav1">
         <!-- Links -->
-<!--        <ul class="navbar-nav ml-auto navbar-custom1" >-->
+        <!--<ul class="navbar-nav ml-auto navbar-custom1" >-->
         <ul class="navbar-nav ml-auto navbar-text" >
             <li class="nav-item">
                 <a class="nav-link" href="index.php">Home</a>
@@ -38,8 +34,7 @@ include 'controllers/navmenu.controller.php';
 
 
 <nav class="navbar navbar-custom2 navbar-expand-sm">
-<!--    <h3 class="text-muted mb-md-0 mb-5 bold-text"><a class="text-decoration-none text-secondary" href="index.php">WorldStudies.</a></h3>-->
-    <a class="navbar-brand" href="index.php"><img src="media/logos/logo1.png" width="300px" height="50px"></a>
+<h3 class="text-muted mb-md-0 mb-5 bold-text"><a class="text-decoration-none text-secondary" href="index.php">Travel Agency.</a></h3>
     <!-- proprieta per rendere la navbar collassabile nel bottone-->
     <div class="collapse navbar-collapse" id="nav2">
         <!-- Links -->
